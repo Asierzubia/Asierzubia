@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Asierzubia
-- 👀 I’m interested in Cybersecurity and Artificial Intelligence
-- 🌱 I’m currently learning Stream Machine Learning for Anomaly Detection
-- 💞️ I’m looking to collaborate on big companys realted to Cybersecurity
+- 👀 I’m interested  Artificial Intelligence
+- 🌱 I have a master degree in [Language Analysis and Processing (HAP/LAP)](https://www.ehu.eus/en/web/master/master-language-analysis-processing) by the University of the Basque Country
+- 🌱 I have a second master degree in [Cybersecurity 4.0](https://www.ehu.eus/es/web/graduondokoak/master-ciberseguridad-4-0) by the University of the Basque Country
+- 💞️ I’m looking to collaborate on big companys realted to AI
 - 📫 How to reach me azubia022@gmail.com
 
 <!---
